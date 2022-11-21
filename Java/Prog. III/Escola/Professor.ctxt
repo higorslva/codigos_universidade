@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=especialidade
+comment1.target=void\ setEspecialidade(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getEspecialidade()
+numComments=3

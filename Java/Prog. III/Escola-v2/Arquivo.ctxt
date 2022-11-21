@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Arquivo
+comment1.params=
+comment1.target=void\ criaArquivo()
+comment2.params=
+comment2.target=void\ listarDados()
+comment3.params=
+comment3.target=void\ limparDados()
+numComments=4

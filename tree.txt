@@ -1,0 +1,1095 @@
+.
+├── C
+│   ├── 11-Triangulos.c
+│   ├── Algoritmo Ricart-Agrawala
+│   │   └── RicAgr.c
+│   ├── binario_converter.c
+│   ├── Make_Testes
+│   │   ├── helloWorld.c
+│   │   ├── helloWorld.h
+│   │   ├── helloWorld.o
+│   │   ├── main.c
+│   │   ├── main.o
+│   │   ├── makefile
+│   │   └── printy
+│   ├── milly codse.c
+│   ├── Spinning.c
+│   ├── teste
+│   ├── teste.c
+│   ├── teste-felps.c
+│   ├── teste-smlp.c
+│   ├── triangles
+│   ├── triangles.c
+│   ├── triangulo
+│   └── triangulo.c
+├── C#
+│   └── Eng. de Software II
+│       └── Bridge.cs
+├── C++
+│   ├── 1984
+│   ├── 1984.txt
+│   ├── aaaa
+│   │   ├── aaaa.cbp
+│   │   ├── aaaa.depend
+│   │   ├── aaaa.layout
+│   │   └── main.cpp
+│   ├── aaaaaaaaaa
+│   │   ├── aaaaaaaaaa.cbp
+│   │   ├── aaaaaaaaaa.layout
+│   │   └── main.cpp
+│   ├── aopfsj
+│   │   ├── aopfsj.cbp
+│   │   ├── aopfsj.layout
+│   │   └── main.cpp
+│   ├── Área de testes
+│   │   ├── aaaaaaa.cpp
+│   │   ├── aaaaaaa.exe
+│   │   ├── jogo da velha.cpp
+│   │   ├── jogo_da_velha.cpp
+│   │   ├── jogo da velha.exe
+│   │   ├── lugares.cpp
+│   │   ├── lugares.exe
+│   │   ├── media.cpp
+│   │   ├── media.exe
+│   │   ├── nome.cpp
+│   │   ├── nome.exe
+│   │   ├── piramide.cpp
+│   │   ├── piramide.exe
+│   │   ├── Sem Título1.cpp
+│   │   ├── Sem Título1.exe
+│   │   ├── struct.cpp
+│   │   └── struct.exe
+│   ├── Arq de Computadores
+│   │   ├── a.out
+│   │   ├── cache-v2.0
+│   │   ├── cache-v2.0.cpp
+│   │   ├── Teste
+│   │   │   ├── main.c
+│   │   │   └── other.h
+│   │   ├── teste (1)
+│   │   ├── teste.cpp
+│   │   └── testes
+│   │       ├── a.out
+│   │       ├── cache.java
+│   │       ├── cache-v2.0
+│   │       ├── erro
+│   │       ├── erro.cpp
+│   │       ├── simulador_cache
+│   │       ├── simulador_cache.cpp
+│   │       ├── toBinary
+│   │       ├── toBinary.cpp
+│   │       ├── vector
+│   │       └── vector.cpp
+│   ├── ArrayPtr
+│   │   ├── ArrayPtr.cbp
+│   │   ├── ArrayPtr.layout
+│   │   └── main.cpp
+│   ├── AT01-Eletronica.cpp
+│   ├── atividade_complementar
+│   │   ├── atividade_complementar.cbp
+│   │   ├── atividade_complementar.depend
+│   │   └── atividade_complementar.layout
+│   ├── aula
+│   │   ├── aula.cbp
+│   │   ├── aula.layout
+│   │   └── main.cpp
+│   ├── Bidimensional
+│   │   ├── Bidimensional.cbp
+│   │   ├── Bidimensional.layout
+│   │   ├── main.cpp
+│   │   ├── teste-senha
+│   │   └── teste-senha.cpp
+│   ├── binario_converter
+│   ├── C
+│   │   ├── 87t6re.cpp
+│   │   ├── 87t6re.exe
+│   │   ├── bhask-calc.cpp
+│   │   ├── bhask-calc.exe
+│   │   ├── main.cpp
+│   │   ├── main.exe
+│   │   ├── main.o
+│   │   ├── Makefile.win
+│   │   ├── Project1.dev
+│   │   ├── Project1.exe
+│   │   ├── Project1.layout
+│   │   ├── README.txt
+│   │   ├── soma.cpp
+│   │   ├── teste-bhask-calc.cpp
+│   │   ├── teste-bhask-calc.exe
+│   │   ├── teste.cpp
+│   │   ├── teste de idade.exe
+│   │   ├── teste.dev
+│   │   ├── teste-idade.zip
+│   │   ├── teste.layout
+│   │   ├── Untitled1.cpp
+│   │   ├── Untitled1.exe
+│   │   ├── Untitled2.c
+│   │   └── Untitled2.exe
+│   ├── C++
+│   │   ├── Atividade complementar
+│   │   │   └── atividade_extra.cpp
+│   │   ├── bosta
+│   │   ├── bosta.c
+│   │   ├── bosta.exe
+│   │   ├── calculadora
+│   │   ├── calculadora.cpp
+│   │   ├── Calculadora de raízes de uma função
+│   │   │   ├── main.cpp
+│   │   │   ├── main.exe
+│   │   │   ├── Teste2.cbp
+│   │   │   ├── Teste2.depend
+│   │   │   └── Teste2.layout
+│   │   ├── calculadora.exe
+│   │   ├── calculadora_samuca.cpp
+│   │   ├── calculadora_samuca.exe
+│   │   ├── main.cpp
+│   │   ├── Project2.dev
+│   │   ├── Project2.exe
+│   │   ├── Project2.layout
+│   │   ├── teste_array
+│   │   ├── teste_array.cpp
+│   │   └── teste.cpp
+│   ├── CacheSimulator
+│   │   ├── bin
+│   │   │   └── Debug
+│   │   ├── CacheSimulator.cbp
+│   │   ├── CacheSimulator.layout
+│   │   ├── main.cpp
+│   │   └── obj
+│   │       └── Debug
+│   ├── calc
+│   │   ├── calc.cbp
+│   │   ├── calc.depend
+│   │   ├── calc.layout
+│   │   └── main.cpp
+│   ├── calc.cien.class
+│   ├── calc.cien.class.cc
+│   ├── calc.cien.class.exe
+│   ├── calc_switchcase
+│   │   ├── calc
+│   │   ├── calc-cpp
+│   │   ├── calc-cpp.cpp
+│   │   ├── calc-cpp.exe
+│   │   ├── calc_switchcase.cbp
+│   │   ├── calc_switchcase.depend
+│   │   ├── calc_switchcase.layout
+│   │   ├── leia-me.md
+│   │   ├── main.cpp
+│   │   └── main.exe
+│   ├── calculadora
+│   │   ├── calculadora.cbp
+│   │   ├── calculadora.depend
+│   │   ├── calculadora.layout
+│   │   ├── calc_vscode.cpp
+│   │   ├── calc_vscode.exe
+│   │   ├── include
+│   │   │   ├── Calculadora.exe
+│   │   │   ├── Calculadora.h
+│   │   │   └── teste.h
+│   │   ├── main.cpp
+│   │   ├── main.exe
+│   │   └── src
+│   │       ├── Calculadora.cpp
+│   │       └── teste.cpp
+│   ├── Caractere
+│   │   ├── Caractere.cbp
+│   │   ├── Caractere.depend
+│   │   ├── Caractere.layout
+│   │   └── main.cpp
+│   ├── carta
+│   │   ├── carta.cbp
+│   │   ├── carta.layout
+│   │   └── main.cpp
+│   ├── Class
+│   │   ├── Class.cbp
+│   │   ├── Class.depend
+│   │   ├── Class.layout
+│   │   └── main.cpp
+│   ├── Cobrinha.cpp
+│   ├── contador
+│   ├── contador.cpp
+│   ├── Download errors.txt
+│   ├── estoque_celular
+│   ├── estoque_celular.cpp
+│   ├── Grafos
+│   │   ├── grafo-euleriano-master
+│   │   │   ├── criaGrafo.py
+│   │   │   ├── exemplo1.txt
+│   │   │   ├── exemplo2.txt
+│   │   │   ├── exemplo3.txt
+│   │   │   ├── exemplo4.txt
+│   │   │   ├── funcoesAuxiliares.py
+│   │   │   ├── hierholzer.py
+│   │   │   ├── LICENSE
+│   │   │   ├── main.py
+│   │   │   ├── __pycache__
+│   │   │   │   ├── criaGrafo.cpython-38.pyc
+│   │   │   │   ├── funcoesAuxiliares.cpython-38.pyc
+│   │   │   │   └── hierholzer.cpython-38.pyc
+│   │   │   ├── README.md
+│   │   │   └── relatorio.pdf
+│   │   ├── grafos_lista-adjacência
+│   │   ├── grafos_lista-adjacência.cpp
+│   │   ├── grafos_matriz-incidência.cpp
+│   │   └── Grafos.zip
+│   ├── IPValidator
+│   │   ├── ip
+│   │   ├── ip_main.cpp
+│   │   ├── ip_val.h
+│   │   └── src
+│   │       ├── ip
+│   │       └── ip.cpp
+│   ├── JuliaoC
+│   │   ├── lugares
+│   │   │   ├── for exemplo
+│   │   │   ├── for exemplo.cpp
+│   │   │   ├── lugares.cbp
+│   │   │   ├── lugares.depend
+│   │   │   ├── lugares.layout
+│   │   │   ├── main
+│   │   │   └── main.cpp
+│   │   ├── media aluno
+│   │   │   ├── main
+│   │   │   ├── main.cpp
+│   │   │   ├── media aluno.cbp
+│   │   │   ├── media aluno.depend
+│   │   │   └── media aluno.layout
+│   │   ├── nome
+│   │   │   ├── main.cpp
+│   │   │   ├── nome.cbp
+│   │   │   ├── nome.depend
+│   │   │   ├── nome.layout
+│   │   │   └── teste.c
+│   │   ├── quadrado
+│   │   │   ├── main
+│   │   │   ├── main.cpp
+│   │   │   ├── quadrado.cbp
+│   │   │   └── quadrado.layout
+│   │   ├── quadrado vazado
+│   │   │   ├── main
+│   │   │   ├── main.cpp
+│   │   │   ├── quadrado vazado.cbp
+│   │   │   ├── quadrado vazado.depend
+│   │   │   └── quadrado vazado.layout
+│   │   └── struct
+│   │       ├── main.cpp
+│   │       ├── struct.cbp
+│   │       └── struct.layout
+│   ├── leitura
+│   ├── leitura.cc
+│   ├── LICENSE
+│   ├── loop
+│   │   ├── loop.cbp
+│   │   ├── loop.depend
+│   │   ├── loop.layout
+│   │   └── main.cpp
+│   ├── main.h.txt
+│   ├── Media alunos
+│   │   ├── main
+│   │   ├── main.cpp
+│   │   ├── Media alunos.cbp
+│   │   └── Media alunos.layout
+│   ├── milly code.cpp
+│   ├── Nasc
+│   │   ├── 2 questao.txt
+│   │   ├── 3 questao.txt
+│   │   ├── 6 questao.txt
+│   │   ├── 7 questao.txt
+│   │   ├── 9 questao.txt
+│   │   └── TESTE.ALG
+│   ├── nome-print
+│   ├── nome-print.cpp
+│   ├── nota aluno
+│   │   ├── main.cpp
+│   │   ├── nota aluno.cbp
+│   │   ├── nota aluno.depend
+│   │   └── nota aluno.layout
+│   ├── ola mundo
+│   │   ├── main.cpp
+│   │   ├── ola mundo.cbp
+│   │   ├── ola mundo.depend
+│   │   └── ola mundo.layout
+│   ├── peso
+│   ├── peso.cpp
+│   ├── Ponteiros
+│   │   ├── main.cpp
+│   │   ├── Ponteiros.cbp
+│   │   ├── Ponteiros.depend
+│   │   └── Ponteiros.layout
+│   ├── Ponteiros de Função
+│   │   ├── main.cpp
+│   │   ├── Ponteiros de Função.cbp
+│   │   ├── Ponteiros de Função.depend
+│   │   └── Ponteiros de Função.layout
+│   ├── printarray
+│   │   ├── main
+│   │   ├── main.cpp
+│   │   ├── printarray.cbp
+│   │   └── printarray.layout
+│   ├── prototipo
+│   ├── prototipo.cpp
+│   ├── prova
+│   │   ├── main.cpp
+│   │   ├── prova.cbp
+│   │   ├── prova.depend
+│   │   ├── prova.layout
+│   │   └── teste.c
+│   ├── prova-res
+│   │   ├── main.cpp
+│   │   ├── prova-res.cbp
+│   │   ├── prova-res.depend
+│   │   └── prova-res.layout
+│   ├── README.md
+│   ├── setlocale
+│   │   ├── main.cpp
+│   │   ├── setlocale.cbp
+│   │   └── setlocale.layout
+│   ├── struct teste.cpp.txt
+│   ├── switch.exe
+│   ├── Teoria da Computação
+│   │   ├── cache-simulator.cpp
+│   │   ├── ExpressaoRegular
+│   │   ├── ExpressaoRegular.cpp
+│   │   └── ExpressaoRegular.py
+│   ├── teste
+│   │   ├── main.cpp
+│   │   ├── teste.cbp
+│   │   └── teste.layout
+│   ├── teste-1984.cpp
+│   ├── Teste-3
+│   │   ├── main.cpp
+│   │   ├── Teste-3.cbp
+│   │   └── Teste-3.layout
+│   ├── teste-aa
+│   │   ├── bin
+│   │   │   └── Debug
+│   │   │       └── teste
+│   │   ├── main.cpp
+│   │   ├── obj
+│   │   │   └── Debug
+│   │   │       └── main.o
+│   │   ├── teste-aa.cbp
+│   │   └── teste-aa.layout
+│   ├── teste ArrayPrint
+│   │   ├── main
+│   │   ├── main.cpp
+│   │   ├── teste ArrayPrint.cbp
+│   │   ├── teste ArrayPrint.depend
+│   │   └── teste ArrayPrint.layout
+│   ├── teste-atom.cpp
+│   ├── teste.cc
+│   ├── teste_classe.cpp.txt
+│   ├── teste.cpp
+│   ├── testee
+│   │   ├── main.c
+│   │   ├── testee.cbp
+│   │   └── testee.layout
+│   ├── teste.exe
+│   ├── teste-felps
+│   ├── testemedia
+│   │   ├── main.cpp
+│   │   ├── testemedia.cbp
+│   │   ├── testemedia.depend
+│   │   └── testemedia.layout
+│   ├── teste-menu
+│   ├── teste-menu.cpp
+│   ├── teste.txt
+│   ├── teste vetor
+│   │   ├── main.cpp
+│   │   ├── teste vetor.cbp
+│   │   └── teste vetor.layout
+│   ├── teste while
+│   ├── teste while.cpp
+│   ├── Untitled-1
+│   ├── Untitled-1.cpp
+│   ├── vetor
+│   │   ├── main.cpp
+│   │   ├── vetor.cbp
+│   │   ├── vetor.depend
+│   │   └── vetor.layout
+│   ├── vetores
+│   │   ├── main.cpp
+│   │   ├── vetores.cbp
+│   │   ├── vetores.depend
+│   │   └── vetores.layout
+│   └── vetor var
+│       ├── main.cpp
+│       ├── vetor var.cbp
+│       ├── vetor var.depend
+│       └── vetor var.layout
+├── HTML
+│   ├── dados.txt
+│   ├── formulario.html
+│   └── style.css
+├── Java
+│   ├── Eng. Software II
+│   │   ├── Lista-Júlio_EngII
+│   │   │   ├── A1
+│   │   │   │   ├── aluno.class
+│   │   │   │   ├── aluno.ctxt
+│   │   │   │   ├── aluno.java
+│   │   │   │   ├── main.class
+│   │   │   │   ├── main.ctxt
+│   │   │   │   ├── main.java
+│   │   │   │   ├── package.bluej
+│   │   │   │   └── README.TXT
+│   │   │   ├── A2
+│   │   │   │   └── A1.cpp
+│   │   │   └── Implementações
+│   │   │       └── Bridge
+│   │   │           ├── Assemble.class
+│   │   │           ├── Bike.class
+│   │   │           ├── BridgePattern.class
+│   │   │           ├── Car.class
+│   │   │           ├── Produce.class
+│   │   │           ├── Untitled-1.java
+│   │   │           ├── Vehicle.class
+│   │   │           └── Workshop.class
+│   │   └── padroes-soft
+│   │       ├── Abstract Factory
+│   │       │   ├── Carro.java
+│   │       │   ├── carroLuxo.java
+│   │       │   ├── fabricaCarroBrasil.java
+│   │       │   ├── fabricaCarroDefault.java
+│   │       │   ├── fabricaCarroEUA.java
+│   │       │   ├── fabricaCarro.java
+│   │       │   ├── Localidade.java
+│   │       │   ├── MicroCarro.java
+│   │       │   ├── MiniCarro.java
+│   │       │   ├── PadraoAbstract.java
+│   │       │   └── tipoCarro.java
+│   │       ├── Adapter
+│   │       │   ├── AdaptadorPassaro.java
+│   │       │   ├── Main.java
+│   │       │   ├── Pardal.java
+│   │       │   ├── Passaro.java
+│   │       │   ├── patoBrinquedo.java
+│   │       │   └── PatoDeBorracha.java
+│   │       ├── Bridge
+│   │       │   ├── Bicicleta.java
+│   │       │   ├── Carro.java
+│   │       │   ├── Montar.java
+│   │       │   ├── Oficina.java
+│   │       │   ├── package.bluej
+│   │       │   ├── PadraoBridge.java
+│   │       │   ├── Produzir.java
+│   │       │   ├── README.TXT
+│   │       │   ├── sourcecode.txt
+│   │       │   └── Veiculo.java
+│   │       ├── Builder
+│   │       │   ├── Bottle.java
+│   │       │   ├── BuilderPatternDemo.java
+│   │       │   ├── builder_pattern_uml_diagram.jpg
+│   │       │   ├── Burger.java
+│   │       │   ├── ChickenBurger.java
+│   │       │   ├── Coke.java
+│   │       │   ├── ColdDrink.java
+│   │       │   ├── Item.java
+│   │       │   ├── MealBuilder.java
+│   │       │   ├── Meal.java
+│   │       │   ├── Packing.java
+│   │       │   ├── Pepsi.java
+│   │       │   ├── VegBurger.java
+│   │       │   └── Wrapper.java
+│   │       ├── Chain of Responsibility
+│   │       │   ├── Chain.class
+│   │       │   ├── Chain.java
+│   │       │   ├── NegativeProcessor.class
+│   │       │   ├── NegativeProcessor.java
+│   │       │   ├── Number.class
+│   │       │   ├── Number.java
+│   │       │   ├── PositiveProcessor.class
+│   │       │   ├── PositiveProcessor.java
+│   │       │   ├── Processor.class
+│   │       │   ├── Processor.java
+│   │       │   ├── TestChain.class
+│   │       │   ├── TestChain.java
+│   │       │   ├── ZeroProcessor.class
+│   │       │   └── ZeroProcessor.java
+│   │       ├── Command
+│   │       │   ├── CommandMain.java
+│   │       │   ├── EstoqueCompra.java
+│   │       │   ├── Estoque.java
+│   │       │   ├── Pedido.java
+│   │       │   ├── VendaEstoque.java
+│   │       │   └── Vendedor.java
+│   │       ├── Composite (Me)
+│   │       │   ├── Companhia.class
+│   │       │   ├── Companhia.java
+│   │       │   ├── Desenvolvedor.class
+│   │       │   ├── Desenvolvedor.java
+│   │       │   ├── DiretoriaCompanhia.class
+│   │       │   ├── DiretoriaCompanhia.java
+│   │       │   ├── Empregado.class
+│   │       │   ├── Empregado.java
+│   │       │   ├── Gerente.class
+│   │       │   └── Gerente.java
+│   │       ├── Decorator
+│   │       │   ├── Circulo.java
+│   │       │   ├── DecoratorFormato.java
+│   │       │   ├── DecoratorFormatoVermelho.java
+│   │       │   ├── Formato.java
+│   │       │   ├── PadraoDecorator.java
+│   │       │   └── Retangulo.java
+│   │       ├── Facade
+│   │       │   ├── ClientFacade.java
+│   │       │   ├── Comerciante.java
+│   │       │   ├── iphone.java
+│   │       │   ├── LojaCelular.java
+│   │       │   ├── motorola.java
+│   │       │   └── samsung.java
+│   │       ├── Factory Method
+│   │       │   ├── factoryNotificacao.java
+│   │       │   ├── notificacaoEmail.java
+│   │       │   ├── Notificacao.java
+│   │       │   ├── notificacaoPush.java
+│   │       │   ├── notificacaoSMS.java
+│   │       │   └── servicoNotificacao.java
+│   │       ├── Flyweight
+│   │       │   ├── hamburguer.class
+│   │       │   ├── hamburguer.java
+│   │       │   ├── opcao.class
+│   │       │   ├── opcaoFactory.class
+│   │       │   ├── opcaoFactory.java
+│   │       │   ├── opcao.java
+│   │       │   ├── pizza.class
+│   │       │   ├── pizza.java
+│   │       │   ├── restaurante.class
+│   │       │   └── restaurante.java
+│   │       ├── Interpreter
+│   │       │   ├── AndExpression.java
+│   │       │   ├── Expression.java
+│   │       │   ├── InterpreterPatternDemo.java
+│   │       │   ├── OrExpression.java
+│   │       │   └── TerminalExpression.java
+│   │       ├── Iterator
+│   │       │   ├── Collection.java
+│   │       │   ├── Iterator.java
+│   │       │   ├── Main.java
+│   │       │   ├── NotificationBar.java
+│   │       │   ├── NotificationCollection.java
+│   │       │   ├── NotificationIterator.java
+│   │       │   ├── Notification.java
+│   │       │   └── source.java
+│   │       ├── Mediator
+│   │       │   ├── MediatorMain.java
+│   │       │   ├── SalaBatePapo.java
+│   │       │   └── Usuario.java
+│   │       ├── Memento
+│   │       │   ├── Life.java
+│   │       │   └── Main.java
+│   │       ├── Observer
+│   │       │   ├── CapsObserver.java
+│   │       │   ├── Observer.java
+│   │       │   ├── ObserverMain.java
+│   │       │   ├── PalavrasObserver.java
+│   │       │   ├── Subject.java
+│   │       │   └── TamanhoObserver.java
+│   │       ├── Prototype
+│   │       │   ├── blackColor.class
+│   │       │   ├── blackColor.java
+│   │       │   ├── blueColor.class
+│   │       │   ├── blueColor.java
+│   │       │   ├── Color.class
+│   │       │   ├── Color.java
+│   │       │   ├── ColorStore.class
+│   │       │   ├── ColorStore.java
+│   │       │   ├── Prototype.class
+│   │       │   └── Prototype.java
+│   │       ├── Proxy
+│   │       │   ├── Client.java
+│   │       │   ├── Internet.java
+│   │       │   ├── ProxyInternet.java
+│   │       │   └── RealInternet.java
+│   │       ├── README.md
+│   │       ├── Singleton
+│   │       │   └── DbConnection.java
+│   │       ├── State
+│   │       │   ├── PadraoState.class
+│   │       │   ├── PadraoState.java
+│   │       │   ├── Silencioso.class
+│   │       │   ├── Silencioso.java
+│   │       │   ├── stateAlertaMovel.class
+│   │       │   ├── stateAlertaMovel.java
+│   │       │   ├── stateContextoAlerta.class
+│   │       │   ├── stateContextoAlerta.java
+│   │       │   ├── Vibracao.class
+│   │       │   └── Vibracao.java
+│   │       ├── Strategy (me)
+│   │       │   ├── Contexto.java
+│   │       │   ├── OperacaoMultiplicacao.java
+│   │       │   ├── OperacaoSoma.java
+│   │       │   ├── OperacaoSubtracao.java
+│   │       │   ├── Strategy.java
+│   │       │   └── StrategyMain.java
+│   │       ├── Template Method
+│   │       │   ├── ComputerBuilder.java
+│   │       │   ├── Computer.java
+│   │       │   ├── HighEndComputerBuilder.java
+│   │       │   ├── HighEndComputer.java
+│   │       │   ├── StandardComputerBuilder.java
+│   │       │   ├── StandardComputer.java
+│   │       │   └── TemplateMethodMain.java
+│   │       └── Visitor
+│   │           ├── CarrinhoShoppingClient.class
+│   │           ├── CarrinhoShoppingClient.java
+│   │           ├── CarrinhoShoppingVisitor.class
+│   │           ├── CarrinhoShoppingVisitorImpl.class
+│   │           ├── CarrinhoShoppingVisitorImpl.java
+│   │           ├── CarrinhoShoppingVisitor.java
+│   │           ├── Fruta.class
+│   │           ├── Fruta.java
+│   │           ├── ItemElement.class
+│   │           ├── ItemElement.java
+│   │           ├── Livro.class
+│   │           ├── Livro.java
+│   │           └── src
+│   │               └── source.java
+│   ├── Javas aleatórios
+│   │   ├── javas2d
+│   │   │   ├── DesenhaOutrosObjetos.class
+│   │   │   └── DesenhaOutrosObjetos.java
+│   │   ├── Jscrollpane.class
+│   │   ├── print1.class
+│   │   ├── print1.java
+│   │   └── Teste1
+│   │       └── main.java
+│   ├── master.zip
+│   ├── Prog. III
+│   │   ├── Ativ-3.zip
+│   │   ├── Atividade 2
+│   │   │   ├── package.bluej
+│   │   │   ├── Pessoa.class
+│   │   │   ├── Pessoa.ctxt
+│   │   │   ├── Pessoa.java
+│   │   │   ├── Principal.class
+│   │   │   ├── Principal.ctxt
+│   │   │   ├── Principal.java
+│   │   │   └── README.TXT
+│   │   ├── Atividade 2.7z
+│   │   ├── atividade-3
+│   │   │   ├── package.bluej
+│   │   │   ├── Produto.class
+│   │   │   ├── Produto.ctxt
+│   │   │   ├── Produto.java
+│   │   │   ├── README.TXT
+│   │   │   ├── Teste.class
+│   │   │   ├── Teste.ctxt
+│   │   │   └── Teste.java
+│   │   ├── atividade-4
+│   │   │   ├── Administrativo.class
+│   │   │   ├── Administrativo.ctxt
+│   │   │   ├── Administrativo.java
+│   │   │   ├── Funcionario.class
+│   │   │   ├── Funcionario.ctxt
+│   │   │   ├── Funcionario.java
+│   │   │   ├── Main.class
+│   │   │   ├── Main.ctxt
+│   │   │   ├── Main.java
+│   │   │   ├── package.bluej
+│   │   │   ├── README.TXT
+│   │   │   ├── Vendedores.class
+│   │   │   ├── Vendedores.ctxt
+│   │   │   └── Vendedores.java
+│   │   ├── atividade-4-correcao
+│   │   │   ├── Administrativo.class
+│   │   │   ├── Administrativo.ctxt
+│   │   │   ├── Administrativo.java
+│   │   │   ├── Funcionario.class
+│   │   │   ├── Funcionario.ctxt
+│   │   │   ├── Funcionario.java
+│   │   │   ├── Main.class
+│   │   │   ├── Main.ctxt
+│   │   │   ├── Main.java
+│   │   │   ├── package.bluej
+│   │   │   ├── README.TXT
+│   │   │   ├── Vendedores.class
+│   │   │   ├── Vendedores.ctxt
+│   │   │   └── Vendedores.java
+│   │   ├── atividade-4.zip
+│   │   ├── atividade-5
+│   │   │   ├── CamaroteInferior.class
+│   │   │   ├── CamaroteInferior.ctxt
+│   │   │   ├── CamaroteInferior.java
+│   │   │   ├── CamaroteSuperior.class
+│   │   │   ├── CamaroteSuperior.ctxt
+│   │   │   ├── CamaroteSuperior.java
+│   │   │   ├── Ingresso.class
+│   │   │   ├── Ingresso.ctxt
+│   │   │   ├── Ingresso.java
+│   │   │   ├── ingressoMain.java
+│   │   │   ├── Normal.class
+│   │   │   ├── Normal.ctxt
+│   │   │   ├── Normal.java
+│   │   │   ├── package.bluej
+│   │   │   ├── VIP.class
+│   │   │   ├── VIP.ctxt
+│   │   │   └── VIP.java
+│   │   ├── atividade-5.zip
+│   │   ├── atividades
+│   │   │   ├── Exercicio12.class
+│   │   │   ├── Exercicio12.ctxt
+│   │   │   ├── Exercicio12.java
+│   │   │   ├── package.bluej
+│   │   │   ├── Programa.java
+│   │   │   ├── Random1.class
+│   │   │   ├── Random1.ctxt
+│   │   │   ├── Random1.java
+│   │   │   └── README.TXT
+│   │   ├── Atividades Java
+│   │   │   └── Atividade1
+│   │   │       ├── package.bluej
+│   │   │       ├── questao_13.java
+│   │   │       ├── questao_20.java
+│   │   │       ├── questao_21.java
+│   │   │       ├── questao_2.class
+│   │   │       ├── questao_2.java
+│   │   │       ├── questao_32.java
+│   │   │       ├── questao_37.java
+│   │   │       ├── questao_3.class
+│   │   │       ├── questao_3.ctxt
+│   │   │       ├── questao_3.java
+│   │   │       ├── questao_4.java
+│   │   │       ├── questao_5.java
+│   │   │       └── questao_7.java
+│   │   ├── cache
+│   │   │   ├── cache.class
+│   │   │   ├── cache.ctxt
+│   │   │   ├── cache.java
+│   │   │   ├── package.bluej
+│   │   │   └── README.TXT
+│   │   ├── calc.java
+│   │   ├── clinica
+│   │   │   ├── aaaciente.class
+│   │   │   ├── aaaciente.ctxt
+│   │   │   ├── aaaciente.java
+│   │   │   ├── Clinica.class
+│   │   │   ├── Clinica.ctxt
+│   │   │   ├── Clinica.java
+│   │   │   ├── Menu.class
+│   │   │   ├── Menu.ctxt
+│   │   │   ├── Menu.java
+│   │   │   ├── Paciente.class
+│   │   │   ├── Paciente.ctxt
+│   │   │   ├── Paciente.java
+│   │   │   ├── package.bluej
+│   │   │   └── README.TXT
+│   │   ├── clinica.7z
+│   │   ├── clinica(copia)
+│   │   │   ├── Clinica.class
+│   │   │   ├── Clinica.ctxt
+│   │   │   ├── Clinica.java
+│   │   │   ├── Menu.class
+│   │   │   ├── Menu.ctxt
+│   │   │   ├── Menu.java
+│   │   │   ├── paciente2.java
+│   │   │   ├── Paciente.class
+│   │   │   ├── Paciente.ctxt
+│   │   │   ├── Paciente.java
+│   │   │   ├── package.bluej
+│   │   │   ├── README.TXT
+│   │   │   └── Relatorio.java
+│   │   ├── codigos-aula
+│   │   │   ├── Animal.class
+│   │   │   ├── Animal.ctxt
+│   │   │   ├── Animal.java
+│   │   │   ├── Arara.class
+│   │   │   ├── Arara.ctxt
+│   │   │   ├── Arara.java
+│   │   │   ├── banco.class
+│   │   │   ├── banco.ctxt
+│   │   │   ├── banco.java
+│   │   │   ├── CamaroteInferior.class
+│   │   │   ├── CamaroteInferior.ctxt
+│   │   │   ├── CamaroteInferior.java
+│   │   │   ├── CamaroteSuperior.class
+│   │   │   ├── CamaroteSuperior.ctxt
+│   │   │   ├── CamaroteSuperior.java
+│   │   │   ├── Carnivoro.class
+│   │   │   ├── Carnivoro.ctxt
+│   │   │   ├── Carnivoro.java
+│   │   │   ├── Conta.class
+│   │   │   ├── ContaCorrente.class
+│   │   │   ├── ContaCorrente.ctxt
+│   │   │   ├── ContaCorrente.java
+│   │   │   ├── Conta.ctxt
+│   │   │   ├── Conta.java
+│   │   │   ├── ContaPoupanca.class
+│   │   │   ├── ContaPoupanca.ctxt
+│   │   │   ├── ContaPoupanca.java
+│   │   │   ├── ControledeBonificacoes.class
+│   │   │   ├── ControledeBonificacoes.ctxt
+│   │   │   ├── ControledeBonificacoes.java
+│   │   │   ├── Diretor.class
+│   │   │   ├── Diretor.ctxt
+│   │   │   ├── Diretor.java
+│   │   │   ├── Empresa.class
+│   │   │   ├── Empresa.ctxt
+│   │   │   ├── Empresa.java
+│   │   │   ├── Emprestimo.class
+│   │   │   ├── Emprestimo.ctxt
+│   │   │   ├── Emprestimo.java
+│   │   │   ├── Funcionario.class
+│   │   │   ├── Funcionario.ctxt
+│   │   │   ├── Funcionario.java
+│   │   │   ├── Gerente.class
+│   │   │   ├── Gerente.ctxt
+│   │   │   ├── Gerente.java
+│   │   │   ├── Herbivoro.class
+│   │   │   ├── Herbivoro.ctxt
+│   │   │   ├── Herbivoro.java
+│   │   │   ├── Ingresso.class
+│   │   │   ├── Ingresso.ctxt
+│   │   │   ├── Ingresso.java
+│   │   │   ├── ingressoMain.class
+│   │   │   ├── ingressoMain.ctxt
+│   │   │   ├── ingressoMain.java
+│   │   │   ├── main.class
+│   │   │   ├── main.ctxt
+│   │   │   ├── main.java
+│   │   │   ├── Normal.class
+│   │   │   ├── Normal.ctxt
+│   │   │   ├── Normal.java
+│   │   │   ├── package.bluej
+│   │   │   ├── README.TXT
+│   │   │   ├── TestaContas.class
+│   │   │   ├── TestaContas.ctxt
+│   │   │   ├── TestaContas.java
+│   │   │   ├── TestaEmpresa.class
+│   │   │   ├── Teste (1).class
+│   │   │   ├── Teste (1).ctxt
+│   │   │   ├── teste (1).java
+│   │   │   ├── teste.class
+│   │   │   ├── teste.ctxt
+│   │   │   ├── Teste.java
+│   │   │   ├── Tigre.class
+│   │   │   ├── Tigre.ctxt
+│   │   │   ├── Tigre.java
+│   │   │   ├── VIP.class
+│   │   │   ├── VIP.ctxt
+│   │   │   └── VIP.java
+│   │   ├── correcao-clinica
+│   │   │   ├── Clinica.class
+│   │   │   ├── Clinica.ctxt
+│   │   │   ├── Clinica.java
+│   │   │   ├── doc
+│   │   │   │   ├── allclasses.html
+│   │   │   │   ├── Clinica.html
+│   │   │   │   ├── constant-values.html
+│   │   │   │   ├── element-list
+│   │   │   │   ├── index.html
+│   │   │   │   ├── logfile.txt
+│   │   │   │   ├── package-summary.html
+│   │   │   │   ├── script.js
+│   │   │   │   └── stylesheet.css
+│   │   │   ├── Paciente.class
+│   │   │   ├── Paciente.ctxt
+│   │   │   ├── Paciente.java
+│   │   │   ├── package.bluej
+│   │   │   ├── Principal.class
+│   │   │   ├── Principal.ctxt
+│   │   │   ├── Principal.java
+│   │   │   └── README.TXT
+│   │   ├── Empresa
+│   │   │   ├── Empresa.java
+│   │   │   ├── package.bluej
+│   │   │   └── README.TXT
+│   │   ├── Empresa2
+│   │   │   ├── Empresa.java
+│   │   │   ├── package.bluej
+│   │   │   └── README.TXT
+│   │   ├── Escola
+│   │   │   ├── Aluno.class
+│   │   │   ├── Aluno.ctxt
+│   │   │   ├── Aluno.java
+│   │   │   ├── Arquivo.class
+│   │   │   ├── Arquivo.ctxt
+│   │   │   ├── Arquivo.java
+│   │   │   ├── doc
+│   │   │   │   ├── allclasses.html
+│   │   │   │   ├── constant-values.html
+│   │   │   │   ├── element-list
+│   │   │   │   ├── index.html
+│   │   │   │   ├── logfile.txt
+│   │   │   │   ├── package-summary.html
+│   │   │   │   ├── principal.html
+│   │   │   │   ├── script.js
+│   │   │   │   └── stylesheet.css
+│   │   │   ├── Escola.class
+│   │   │   ├── Escola.ctxt
+│   │   │   ├── Escola.java
+│   │   │   ├── icons
+│   │   │   │   └── write.jpg
+│   │   │   ├── licenca.class
+│   │   │   ├── licenca.java
+│   │   │   ├── LICENSE
+│   │   │   ├── package.bluej
+│   │   │   ├── Pessoa.class
+│   │   │   ├── Pessoa.ctxt
+│   │   │   ├── Pessoa.java
+│   │   │   ├── principal.class
+│   │   │   ├── principal.ctxt
+│   │   │   ├── principal.java
+│   │   │   ├── Professor.class
+│   │   │   ├── Professor.ctxt
+│   │   │   ├── Professor.java
+│   │   │   ├── README.TXT
+│   │   │   ├── relatorio.txt
+│   │   │   ├── Servidor.class
+│   │   │   ├── Servidor.ctxt
+│   │   │   └── Servidor.java
+│   │   ├── Escola-v2
+│   │   │   ├── Aluno.class
+│   │   │   ├── Aluno.ctxt
+│   │   │   ├── Aluno.java
+│   │   │   ├── Arquivo.class
+│   │   │   ├── Arquivo.ctxt
+│   │   │   ├── Arquivo.java
+│   │   │   ├── doc
+│   │   │   │   ├── allclasses.html
+│   │   │   │   ├── constant-values.html
+│   │   │   │   ├── element-list
+│   │   │   │   ├── index.html
+│   │   │   │   ├── logfile.txt
+│   │   │   │   ├── package-summary.html
+│   │   │   │   ├── principal.html
+│   │   │   │   ├── script.js
+│   │   │   │   └── stylesheet.css
+│   │   │   ├── Escola.class
+│   │   │   ├── Escola.ctxt
+│   │   │   ├── Escola.java
+│   │   │   ├── icons
+│   │   │   │   └── write.jpg
+│   │   │   ├── LICENSE
+│   │   │   ├── package.bluej
+│   │   │   ├── Pessoa.class
+│   │   │   ├── Pessoa.ctxt
+│   │   │   ├── Pessoa.java
+│   │   │   ├── principal.class
+│   │   │   ├── principal.ctxt
+│   │   │   ├── principal.java
+│   │   │   ├── Professor.class
+│   │   │   ├── Professor.ctxt
+│   │   │   ├── Professor.java
+│   │   │   ├── README.TXT
+│   │   │   ├── relatorio.txt
+│   │   │   ├── Servidor.class
+│   │   │   ├── Servidor.ctxt
+│   │   │   ├── Servidor.java
+│   │   │   ├── TestDialog.class
+│   │   │   ├── TestDialog.ctxt
+│   │   │   └── TestDialog.java
+│   │   ├── Estoque
+│   │   │   ├── Estoque.class
+│   │   │   ├── Estoque.ctxt
+│   │   │   ├── Estoque.java
+│   │   │   ├── package.bluej
+│   │   │   ├── QuestaoProva.class
+│   │   │   ├── QuestaoProva.ctxt
+│   │   │   ├── QuestaoProva.java
+│   │   │   └── README.TXT
+│   │   ├── grafo
+│   │   │   ├── Grafo$Aresta.class
+│   │   │   ├── Grafo$Vertice.class
+│   │   │   ├── Grafo.class
+│   │   │   ├── Grafo.ctxt
+│   │   │   ├── Grafo.java
+│   │   │   ├── package.bluej
+│   │   │   └── README.TXT
+│   │   ├── Idade
+│   │   │   ├── banco.class
+│   │   │   ├── banco.ctxt
+│   │   │   ├── banco.java
+│   │   │   ├── Conta.class
+│   │   │   ├── Conta.ctxt
+│   │   │   ├── Conta.java
+│   │   │   ├── Emprestimo.class
+│   │   │   ├── Emprestimo.ctxt
+│   │   │   ├── Emprestimo.java
+│   │   │   ├── package.bluej
+│   │   │   ├── Programa.class
+│   │   │   ├── Programa.ctxt
+│   │   │   ├── Programa.java
+│   │   │   ├── README.TXT
+│   │   │   ├── TestaEmpresa.class
+│   │   │   ├── teste.class
+│   │   │   ├── teste.ctxt
+│   │   │   └── teste.java
+│   │   ├── Projeto_Escola.zip
+│   │   ├── Teste de herança
+│   │   │   ├── heranca.java
+│   │   │   ├── menu.class
+│   │   │   ├── menu.ctxt
+│   │   │   ├── menu.java
+│   │   │   ├── package.bluej
+│   │   │   └── README.TXT
+│   │   ├── teste escrita
+│   │   │   ├── ManipuladorArquivo.class
+│   │   │   ├── ManipuladorArquivo.ctxt
+│   │   │   ├── ManipuladorArquivo.java
+│   │   │   ├── package.bluej
+│   │   │   ├── Principal.class
+│   │   │   ├── Principal.ctxt
+│   │   │   ├── Principal.java
+│   │   │   └── README.TXT
+│   │   └── Teste-Pacote
+│   │       ├── menu.java
+│   │       ├── package.bluej
+│   │       ├── Pessoa.class
+│   │       ├── Pessoa.ctxt
+│   │       ├── Pessoa.java
+│   │       ├── README.TXT
+│   │       ├── teste.class
+│   │       ├── teste.ctxt
+│   │       └── teste.java
+│   └── Sistemas Distribuidos
+│       └── Ricart-Agrawala-algorithm-for-distributed-mutual-exclusion-master
+│           ├── Client.class
+│           ├── Client.java
+│           ├── CriticalSectionRequests.class
+│           ├── CriticalSectionRequests.java
+│           ├── DeferredRequests.class
+│           ├── DeferredRequests.java
+│           ├── Message.class
+│           ├── Message.java
+│           ├── MessageReceiver.class
+│           ├── MessageReceiver.java
+│           ├── MessageSender.class
+│           ├── MessageSender.java
+│           ├── Node.class
+│           ├── Node.java
+│           ├── ParseFile.class
+│           ├── ParseFile.java
+│           ├── PriorityQ.java
+│           ├── README.md
+│           ├── RicartAgrawala.class
+│           ├── RicartAgrawala.java
+│           ├── Server.class
+│           ├── Server.java
+│           ├── SocketConnections.class
+│           ├── SocketConnections.java
+│           ├── TCPRunner.class
+│           ├── TCPRunner.java
+│           ├── TimeStamp.class
+│           └── TimeStamp.java
+├── Lua
+│   └── quicksortv3.lua
+├── NS
+│   └── teste.tcl
+├── Python
+│   ├── Redes de Computadores
+│   │   └── Protocolos TCP e UDP
+│   │       ├── client_TCP.py
+│   │       └── client_UDP.py
+│   └── Sistemas Distribuidos
+│       ├── Algoritmo Bully
+│       │   ├── BullyAlgoExample2.java
+│       │   └── BullyAlgoExample.java
+│       ├── Algoritmo de Berkeley
+│       │   ├── client.py
+│       │   └── server.py
+│       └── Algoritmo de Lamports
+│           └── lamport.py
+└── tree.txt
+
+148 directories, 944 files

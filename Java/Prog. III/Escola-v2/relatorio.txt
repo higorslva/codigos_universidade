@@ -1,0 +1,7 @@
+--------------------------------
+Nome: Higor
+Genero: Masculino
+Idade: 21
+CPF: 498152686
+Atributo: Aluno(a)
+Nº de Matricula: 2131392312

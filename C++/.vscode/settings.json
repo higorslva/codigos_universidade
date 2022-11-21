@@ -1,0 +1,8 @@
+{
+    "c-cpp-compile-run.cpp-compiler": "C:\\Program Files (x86)\\Dev-Cpp\\MinGW64\\bin\\g++.exe",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}

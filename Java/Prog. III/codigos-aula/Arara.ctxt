@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Arara
+comment1.params=psittacidae
+comment1.target=void\ setPsittacidae(boolean)
+comment2.params=
+comment2.target=boolean\ getPsittacidae()
+numComments=3

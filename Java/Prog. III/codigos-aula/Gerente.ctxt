@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Gerente
+comment1.params=senha
+comment1.target=boolean\ autentica(int)
+comment2.params=senha
+comment2.target=void\ setSenha(int)
+comment3.params=
+comment3.target=double\ getBonificacao()
+numComments=4

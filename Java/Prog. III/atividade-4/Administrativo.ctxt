@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Administrativo
+comment1.params=HorasExtras
+comment1.target=void\ setHorasExtras(int)
+comment2.params=
+comment2.target=int\ getHorasExtras()
+comment3.params=
+comment3.target=void\ informarHorasExtras()
+comment4.params=
+comment4.target=void\ comissao()
+comment5.params=
+comment5.target=void\ salarioTotal()
+numComments=6

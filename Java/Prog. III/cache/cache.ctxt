@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=cache
+comment1.params=Qtd_enderecos
+comment1.target=int\ log2(int)
+comment2.params=bin
+comment2.target=void\ DecToBin(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

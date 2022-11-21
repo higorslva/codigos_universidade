@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Herbivoro
+comment1.params=herbivoro
+comment1.target=void\ setHerbivoro(boolean)
+comment2.params=familia
+comment2.target=void\ setFamilia(java.lang.String)
+comment3.params=
+comment3.target=boolean\ getHerbivoro()
+comment4.params=
+comment4.target=java.lang.String\ getFamilia()
+numComments=5

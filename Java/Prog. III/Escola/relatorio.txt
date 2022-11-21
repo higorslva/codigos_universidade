@@ -1,0 +1,15 @@
+--------------------------------
+Nome: Felipe Augusto Ferreira das Chagas
+Genero: Masculino
+Idade: 22
+CPF: 45678653456
+Atributo: Aluno(a)
+Nº de Matricula: 201928119291
+--------------------------------
+Nome: Higor
+Genero: Feminino
+Idade: 22
+CPF: 2311413442
+Atributo: Professor(a)
+Especialidade: Matemática
+Salario: R$323131.0

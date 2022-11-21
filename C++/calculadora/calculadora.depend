@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1556051583 source:c:\users\higor silva\documents\calculadora\src\calculadora.cpp
+
+1556051087 c:\users\higor silva\documents\calculadora\include\calculadora.h
+	<iostream>
+
+1556051094 source:c:\users\higor silva\documents\calculadora\main.cpp
+	<iostream>
+	<string>
+	<calculadora.h>
+
+1556214017 source:c:\users\higor silva\documents\projetos\calculadora\main.cpp
+	<iostream>
+	<string>
+
+1556051695 c:\users\higor silva\documents\projetos\calculadora\include\calculadora.h
+	<iostream>
+
+1556051583 source:c:\users\higor silva\documents\projetos\calculadora\src\calculadora.cpp
+

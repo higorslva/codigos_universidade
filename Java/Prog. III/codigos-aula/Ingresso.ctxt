@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ingresso
+comment1.params=valor_ingresso
+comment1.target=void\ setValorIngresso(double)
+comment2.params=
+comment2.target=double\ getValorIngresso()
+comment3.params=
+comment3.target=void\ imprimirValor()
+numComments=4

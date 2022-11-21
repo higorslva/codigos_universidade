@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Clinica
+comment1.params=quantidade
+comment1.target=Clinica(int)
+comment2.params=p
+comment2.target=void\ cadastrar(Paciente)
+comment3.params=
+comment3.target=double\ mediaIdadeH()
+comment4.params=
+comment4.target=double\ maisVelho()
+comment5.params=
+comment5.target=java.lang.String\ maisBaixa()
+numComments=6

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1559448552 source:c:\users\higor silva\documents\calc_switchcase\main.cpp
+	<iostream>
+	<math.h>
+	<locale>
+
+1562696886 source:c:\users\higor silva\documents\projetos\calc_switchcase\main.cpp
+	<iostream>
+	<math.h>
+	<locale>
+	<stdlib.h>
+
+1559537127 source:c:\users\higors\documents\projetos\calc_switchcase\main.cpp
+	<iostream>
+	<math.h>
+	<locale>
+

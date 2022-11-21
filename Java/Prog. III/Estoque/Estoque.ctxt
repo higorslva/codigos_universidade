@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nomep\ un
+comment0.target=Estoque(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=void\ entradaEstoque()
+comment3.params=
+comment3.target=void\ saidaEstoque()
+comment4.params=
+comment4.target=void\ mostrarEstoque()
+numComments=5

@@ -1,0 +1,52 @@
+Start
+Step 1-> declare function to  calculate power for integration
+   float fun(float x, float y)
+   return pow(pow(x, 4) + pow(y, 5), 0.5)
+Step 2-> declare function to find the double integral value
+   float doubleIntegral(float step_x, float step_y, float lower_x, float upper_x, float lower_y, float upper_y)
+   Declare int n1, n2
+   Declare float arr[50][50], arr_2[50], result
+   set n1 = (upper_x - lower_x) / step_x + 1
+   set n2 = (upper_y - lower_y) / step_y + 1
+   Loop For int i = 0 and i < n1 and ++i
+      Loop For int j = 0 and j < n2 and ++j
+         set arr[i][j] = fun(lower_x + i * step_x, lower_y + j * step_y)
+      End
+   End
+   Loop For int i = 0 and i < n1 and ++i
+      set arr_2[i] = 0
+      Loop For int j = 0 and j < n2 and ++j
+         IF (j == 0 || j == n2 - 1)
+            Set arr_2[i] += arr[i][j]
+         End
+         Else IF (j % 2 == 0)
+            Set arr_2[i] += 2 * arr[i][j]
+         End
+         Else
+            set arr_2[i] += 4 * arr[i][j]
+      End
+      set arr_2[i] *= (step_y / 3)
+   End
+   set result = 0
+   Loop For int i = 0 and i < n1 and ++i
+      IF (i == 0 || i == n1 - 1)
+         set result += arr_2[i]
+      End
+      Else IF (i % 2 == 0)
+         set result += 2 * arr_2[i]
+      End
+      Else
+         set result += 4 * arr_2[i]
+      End
+      set result *= (step_x / 3)
+   End
+   return result
+Step 2-> In main()
+   declare step for x as float step_x = 1.2
+   Declare step for y as float step_y = 0.54
+   Declare lower limit of xfloat lower_x = 1.3
+   Declare upper limit of xfloat upper_x = 2.1
+   Declare lower limit of yfloat lower_y = 1.0
+   Declare upper limit of yfloat upper_y = 2.1
+   Call (step_x, step_y, lower_x, upper_x, lower_y, upper_y)
+Stop

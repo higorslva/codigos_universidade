@@ -1,0 +1,17 @@
+inicio
+	real: a, b, c, s, area do triangulo;
+	
+	escreva ("Digite um valor A: ");
+	Leia A;
+	Escreva ("Digite um valor B: ");
+	Leia B;
+	Escreva ("Digite um valor C: ");
+	Leia C;
+	
+	s <~~ (a+b+c)/2;
+	area do triangulo <~~ [s*(s-a)*(s-b)*(s-c)]^1/2;
+		
+		inicio
+		escreva ("A área do triângulo é igual " area do triangulo);
+		fim
+fim

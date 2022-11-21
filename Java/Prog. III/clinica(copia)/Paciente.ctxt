@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Paciente
+comment1.params=quantidade
+comment1.target=Paciente(int)
+comment2.params=
+comment2.target=void\ cadastro()
+comment3.params=f
+comment3.target=void\ adiciona(Paciente)
+numComments=4

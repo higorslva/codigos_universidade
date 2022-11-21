@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ControledeBonificacoes
+comment1.params=funcionario
+comment1.target=void\ registra(Funcionario)
+comment2.params=
+comment2.target=double\ getTotaldeBonificacoes()
+numComments=3

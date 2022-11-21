@@ -1,0 +1,27 @@
+inicio
+	real: a, b, c;
+	escreva ("Digite um valor A: ");
+	Leia A;
+	Escreva ("Digite um valor B: ");
+	Leia B
+	Escreva ("Digite um valor C: ");
+	Leia C
+	
+	media aritmetica <~~ (a+b+c)/3
+	
+		inicio
+		escreva ("O valor da media aritmetica é" media aritmetica)
+		fim
+	
+	media harmonica <~~ 3/[(1/a)+(1/b)+(1/c)]
+		
+		inicio
+		escreva ("O valor da media harmonica é" media harmonica)
+		fim
+	
+	media geometrica <~~ (a*b*c)^1/3
+	
+		inicio
+		escreva ("O valor da media geometrica é" media geometrica)
+		fim
+fim

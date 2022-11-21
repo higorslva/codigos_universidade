@@ -1,0 +1,27 @@
+﻿inicio
+	real: A, B, C;
+	escreva ("Digite um numero");
+		Se A>0
+		
+		B=A**
+		C=raiz(A)
+		
+			inicio
+			
+				escreva ("O quadrado de" A "é" B );
+			
+			fim
+			
+			inicio
+			
+				escreva ("A raiz quadrada de" A "é" C );
+				
+			fim
+		
+			inicio
+			
+			se A <= 0
+				
+				escreva ("Valor digitado não compatível);
+			fim
+fim

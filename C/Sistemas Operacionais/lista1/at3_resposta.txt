@@ -1,0 +1,5 @@
+O código não será compilado, pois o compilador está esperando o fechamento das aspas na linha 12. Para o 
+código ser executado com sucesso, basta fechar o operador.
+
+printf( "O resultado da multiplicacao eh %3.3f", aux );
+	Adicionar o operador " -------------------^

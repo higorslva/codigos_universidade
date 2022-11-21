@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Servidor
+comment1.params=salario
+comment1.target=void\ setSalario(double)
+comment2.params=funcao
+comment2.target=void\ setFuncao(java.lang.String)
+comment3.params=
+comment3.target=double\ getSalario()
+comment4.params=
+comment4.target=java.lang.String\ getFuncao()
+numComments=5

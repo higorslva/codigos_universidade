@@ -1,0 +1,6 @@
+Usando a função "sizeof" em uma array irá devolver valores incorretos, pois em C, arrays são tratados
+como ponteiros. Então, a expressão "sizeof (a)" (sendo 'a' a array instânciada) se torna
+"sizeof(int*)", resultando em 2 (size of int* são 8 bytes).
+
+O recomendado é usar um parâmetro separado "datatype size_t" para o tamanho da array ou
+o seu tamanho passar para impulso_vet().

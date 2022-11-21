@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment1.params=
+comment1.target=Funcionario()
+comment10.params=
+comment10.target=int\ getIdentificador()
+comment11.params=
+comment11.target=double\ getBonificacao()
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=salario
+comment3.target=void\ setSalario(double)
+comment4.params=rg
+comment4.target=void\ setRg(java.lang.String)
+comment5.params=situacao
+comment5.target=void\ setSituacao(boolean)
+comment6.params=
+comment6.target=java.lang.String\ getNome()
+comment7.params=
+comment7.target=double\ getSalario()
+comment8.params=
+comment8.target=java.lang.String\ getRG()
+comment9.params=
+comment9.target=boolean\ getSituacao()
+numComments=12

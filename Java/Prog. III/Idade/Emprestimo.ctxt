@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Emprestimo
+comment1.params=bruto\ desconto\ valor_emprestimo
+comment1.target=void\ analise(double,\ double,\ double)
+numComments=2

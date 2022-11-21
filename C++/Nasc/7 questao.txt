@@ -1,0 +1,28 @@
+inicio
+	real: numero de cadastro, valor das vendas, valor fixo, quantidade, comissao fixa, salario mensal;
+	
+	escreva ("Digite seu numero de cadastro: ");
+	leia numero de cadastro
+	
+	escreva ("Digite o valor do salário fixo: ");
+	Leia salario fixo;
+	
+	escreva ("Digite o valor das vendas: ");
+	Leia valor das vendas; //vv
+	
+	escreva ("Digite o valor fixo por carro vendido: ");
+	Leia valor fixo;
+	
+	escreva ("Quantidade de carros vendidos no mês: ");
+	Leia quantidade
+	
+	comissao fixa <~~ valor fixo * quantidade;
+	
+	x <~~ valor das vendas*(5/100);
+	
+	salario mensal <~~ salario fixo + comissao fixa + x
+	
+		inicio
+		escreva ("O salário mensal do funcionário " numero de cadastro " é " salario mensal)
+		fim
+fim

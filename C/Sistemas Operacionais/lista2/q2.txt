@@ -1,0 +1,2 @@
+Em uma API, seus membros e classes bases são do tipo 'private' por padrão,
+enquando em uma 'struct' elas são do tipo 'public'.
