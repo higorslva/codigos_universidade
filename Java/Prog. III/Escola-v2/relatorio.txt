@@ -1,7 +1,8 @@
 --------------------------------
-Nome: Higor
+Nome: Higoru
 Genero: Masculino
-Idade: 21
-CPF: 498152686
-Atributo: Aluno(a)
-Nº de Matricula: 2131392312
+Idade: 22
+CPF: 978965432345
+Atributo: Professor(a)
+Especialidade: Biologia
+Salario: R$23333.0

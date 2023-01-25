@@ -19,6 +19,7 @@ public class principal{
                 "3 - Cadastrar dados",
                 "4 - Limpar dados cadastrados",
                 "5 - Sair"};
+
                 int n = JOptionPane.showOptionDialog(null,//parent container of JOptionPane
                 "Bem vindo :)",
                 "Cadastro escolar",
