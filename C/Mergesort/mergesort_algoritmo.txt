@@ -1,0 +1,9 @@
+MERGESORT (A, inicio, fim)
+    se (inicio < fim)
+    entao
+        meio <- [(inicio + fim)/2]       // calcula o meio
+        MERGESORT(A, inicio, meio)       // ordena o subvetor esquerdo
+        MERGESORT(A, meio + 1, fim)      // ordena o subvetor direito
+        INTERCALA(A, inicio, meio, fim)  // funde os subvetores
+    fim_se
+fim_mergesort
