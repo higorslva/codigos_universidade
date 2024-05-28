@@ -3,7 +3,23 @@
 │   ├── 11-Triangulos.c
 │   ├── Algoritmo Ricart-Agrawala
 │   │   └── RicAgr.c
+│   ├── Área de testes
+│   │   ├── dupla
+│   │   ├── erro_num
+│   │   ├── erro_num.c
+│   │   ├── hello
+│   │   ├── hello.cpp
+│   │   ├── int
+│   │   ├── int.c
+│   │   ├── int.cc
+│   │   ├── intdupla.cpp
+│   │   └── output
+│   │       └── int
+│   ├── binario_converter
 │   ├── binario_converter.c
+│   ├── integral
+│   │   ├── integral
+│   │   └── integral.c
 │   ├── Make_Testes
 │   │   ├── helloWorld.c
 │   │   ├── helloWorld.h
@@ -12,53 +28,325 @@
 │   │   ├── main.o
 │   │   ├── makefile
 │   │   └── printy
+│   ├── Mergesort
+│   │   ├── mergesort
+│   │   ├── mergesort_algoritmo.txt
+│   │   └── mergesort.c
 │   ├── milly codse.c
+│   ├── ProgII
+│   │   ├── Arvore
+│   │   │   ├── ArvoreBinaria-1024x790.png
+│   │   │   ├── arvore_binaria.c
+│   │   │   ├── arvore_binaria_input.c
+│   │   │   └── output
+│   │   │       ├── arvore_binaria
+│   │   │       └── arvore_binaria_input
+│   │   ├── Árvore B
+│   │   │   ├── arvore-b.c
+│   │   │   ├── arvore-b-git.c
+│   │   │   ├── arvore-b.py
+│   │   │   ├── btree
+│   │   │   │   ├── btree.c
+│   │   │   │   ├── btree.h
+│   │   │   │   ├── btree.o
+│   │   │   │   ├── indicelista.bt
+│   │   │   │   ├── in-out.c
+│   │   │   │   ├── in-out.h
+│   │   │   │   ├── in-out.o
+│   │   │   │   ├── main
+│   │   │   │   ├── main.c
+│   │   │   │   ├── main.o
+│   │   │   │   ├── makefile
+│   │   │   │   ├── output
+│   │   │   │   └── README.md
+│   │   │   └── output
+│   │   │       ├── AED2-ArvoreB
+│   │   │       │   ├── LICENSE
+│   │   │       │   ├── main.c
+│   │   │       │   ├── output
+│   │   │       │   │   ├── indices.dat
+│   │   │       │   │   └── main
+│   │   │       │   ├── README.md
+│   │   │       │   ├── TAB.c
+│   │   │       │   └── TAB.h
+│   │   │       ├── arvore-b
+│   │   │       └── arvore-b-git
+│   │   ├── Árvore Binária
+│   │   │   ├── Antigos
+│   │   │   │   ├── arvore_binaria.c
+│   │   │   │   ├── árvore.c
+│   │   │   │   └── arvore_input.c
+│   │   │   ├── árvore_bin_2.c
+│   │   │   ├── arvore_binaria.c
+│   │   │   ├── árvore_bin.c
+│   │   │   ├── árvore.c
+│   │   │   ├── arvore_input.c
+│   │   │   ├── avl.c
+│   │   │   └── output
+│   │   │       ├── árvore
+│   │   │       ├── árvore_bin_2
+│   │   │       ├── arvore_input
+│   │   │       └── avl
+│   │   ├── Árvore RubroNegra
+│   │   │   ├── arvore-rn.c
+│   │   │   ├── arvore-rn.h
+│   │   │   └── output
+│   │   │       └── arvore-rn
+│   │   ├── Atividade Final
+│   │   │   ├── countingsort
+│   │   │   │   ├── countingsort.c
+│   │   │   │   ├── countingtxt
+│   │   │   │   ├── counting_txt.c
+│   │   │   │   ├── output
+│   │   │   │   │   └── countingsort
+│   │   │   │   ├── radix.c
+│   │   │   │   ├── telefones100-cresc.txt
+│   │   │   │   ├── telefones100-decresc.txt
+│   │   │   │   ├── telefones100.txt
+│   │   │   │   ├── telefones30-cresc.txt
+│   │   │   │   ├── telefones30-decresc.txt
+│   │   │   │   ├── telefones30.txt
+│   │   │   │   ├── telefones50-cresc.txt
+│   │   │   │   ├── telefones50-decresc.txt
+│   │   │   │   ├── telefones50.txt
+│   │   │   │   ├── telefones75-cresc.txt
+│   │   │   │   ├── telefones75-decresc.txt
+│   │   │   │   ├── telefones75.txt
+│   │   │   │   └── telefones.zip
+│   │   │   ├── heap_random.c
+│   │   │   ├── heapsort
+│   │   │   │   ├── heapsort_txt.c
+│   │   │   │   ├── heaptxt
+│   │   │   │   ├── heap_valores_random.c
+│   │   │   │   ├── output
+│   │   │   │   │   ├── heapsort_txt
+│   │   │   │   │   ├── heap_valores_random
+│   │   │   │   │   └── telefones.txt
+│   │   │   │   ├── telefones100-cresc.txt
+│   │   │   │   ├── telefones100-decresc.txt
+│   │   │   │   ├── telefones100.txt
+│   │   │   │   ├── telefones30-cresc.txt
+│   │   │   │   ├── telefones30-decresc.txt
+│   │   │   │   ├── telefones30.txt
+│   │   │   │   ├── telefones50-cresc.txt
+│   │   │   │   ├── telefones50-decresc.txt
+│   │   │   │   ├── telefones50.txt
+│   │   │   │   ├── telefones75-cresc.txt
+│   │   │   │   ├── telefones75-decresc.txt
+│   │   │   │   └── telefones75.txt
+│   │   │   ├── output
+│   │   │   │   ├── heap_random
+│   │   │   │   └── quick_random
+│   │   │   ├── quick
+│   │   │   ├── quick e heap.zip
+│   │   │   ├── quick_random.c
+│   │   │   ├── quicksort
+│   │   │   │   ├── output
+│   │   │   │   │   ├── quick_dados_random
+│   │   │   │   │   ├── quick_pivo_dados_random
+│   │   │   │   │   ├── quicksort_txt
+│   │   │   │   │   └── telefones.txt
+│   │   │   │   ├── quick_dados_random.c
+│   │   │   │   ├── quick_pivo_dados_random.c
+│   │   │   │   ├── quick_pivo_txt
+│   │   │   │   ├── quick_random
+│   │   │   │   ├── quickreverse
+│   │   │   │   ├── quicksort_txt.c
+│   │   │   │   ├── quicksort_txt_pivo_random.c
+│   │   │   │   ├── quicksort_txt_reverse.c
+│   │   │   │   ├── quicktxt
+│   │   │   │   ├── telefones100-cresc.txt
+│   │   │   │   ├── telefones100-decresc.txt
+│   │   │   │   ├── telefones100.txt
+│   │   │   │   ├── telefones30-cresc.txt
+│   │   │   │   ├── telefones30-decresc.txt
+│   │   │   │   ├── telefones30.txt
+│   │   │   │   ├── telefones50-cresc.txt
+│   │   │   │   ├── telefones50.txt
+│   │   │   │   ├── telefones75-cresc.txt
+│   │   │   │   ├── telefones75-decresc.txt
+│   │   │   │   ├── telefones75.txt
+│   │   │   │   └── telefones.txt
+│   │   │   ├── quicksort.zip
+│   │   │   ├── radixsort
+│   │   │   │   ├── output
+│   │   │   │   │   └── radix
+│   │   │   │   └── radix.c
+│   │   │   └── Relatório.pdf
+│   │   ├── Heapsort
+│   │   │   ├── heap
+│   │   │   ├── heap.c
+│   │   │   ├── main (1)
+│   │   │   ├── main (1).c
+│   │   │   ├── main_reverso
+│   │   │   └── main_reverso.c
+│   │   ├── Lista
+│   │   │   ├── lista.c
+│   │   │   └── output
+│   │   │       └── lista
+│   │   ├── lista-encadeada
+│   │   │   ├── lista
+│   │   │   ├── lista2.c
+│   │   │   ├── lista.c
+│   │   │   └── output
+│   │   │       ├── lista
+│   │   │       └── lista2
+│   │   ├── Lista Ponteiros
+│   │   │   ├── array_ponteiro
+│   │   │   ├── array_ponteiro.c
+│   │   │   ├── matriz_ponteiro
+│   │   │   └── matriz_ponteiro.c
+│   │   ├── Lista Struct
+│   │   │   ├── struct
+│   │   │   └── struct.c
+│   │   ├── media
+│   │   ├── media.c
+│   │   ├── Mergesort
+│   │   │   ├── mergesort
+│   │   │   └── mergesort.c
+│   │   ├── Pilha
+│   │   │   ├── Fila e Pilha
+│   │   │   │   ├── lista.c
+│   │   │   │   ├── output
+│   │   │   │   │   ├── pilha_estatico
+│   │   │   │   │   └── pilha_stack
+│   │   │   │   ├── pilha.c
+│   │   │   │   ├── pilha_estatico.c
+│   │   │   │   └── pilha_stack.c
+│   │   │   ├── lista.c
+│   │   │   ├── output
+│   │   │   │   └── pilha
+│   │   │   └── pilha.c
+│   │   ├── ponteiros
+│   │   │   ├── malloc
+│   │   │   ├── malloc.c
+│   │   │   ├── ponteiro
+│   │   │   ├── ponteiro_troca.c
+│   │   │   ├── typedef
+│   │   │   ├── typedef.c
+│   │   │   ├── vetor_ponteiros
+│   │   │   └── vetor_ponteiros.c
+│   │   ├── QuickSort
+│   │   │   ├── quick
+│   │   │   ├── quick2
+│   │   │   ├── quicksort
+│   │   │   ├── quicksort2.c
+│   │   │   ├── quicksort.c
+│   │   │   ├── quick_teste
+│   │   │   └── quick_teste.c
+│   │   └── Radix
+│   │       ├── output
+│   │       │   └── radix
+│   │       └── radix.c
+│   ├── Sistemas Operacionais
+│   │   ├── aula2
+│   │   │   ├── arquivo.txt
+│   │   │   ├── escrita.txt
+│   │   │   ├── exemplo_07_arquivo
+│   │   │   ├── exemplo_07_arquivo.c
+│   │   │   ├── exemplo_08_fluxo
+│   │   │   ├── exemplo_08_fluxo.c
+│   │   │   ├── exemplo_09_fluxo_input
+│   │   │   ├── exemplo_09_fluxo_input.c
+│   │   │   ├── exemplo_10_eof
+│   │   │   ├── exemplo_10_eof.c
+│   │   │   ├── exemplo_11_escrita_registro
+│   │   │   ├── exemplo_11_escrita_registro.c
+│   │   │   ├── exemplo_12_leitura_registro
+│   │   │   ├── exemplo_12_leitura_registro.c
+│   │   │   └── makefile
+│   │   ├── aula3
+│   │   │   ├── exemplo_registradores_linux
+│   │   │   ├── exemplo_registradores_linux.c
+│   │   │   ├── exemplo_registradores_linux_struct
+│   │   │   ├── exemplo_registradores_linux_struct.c
+│   │   │   ├── makefile
+│   │   │   ├── ponteiros
+│   │   │   └── ponteiros.c
+│   │   ├── aula4
+│   │   │   ├── exemplo_07_ponteiro_funcao
+│   │   │   ├── exemplo_07_ponteiro_funcao.c
+│   │   │   ├── exemplo_08_vetor_ponteiro_funcao
+│   │   │   ├── exemplo_08_vetor_ponteiro_funcao_2
+│   │   │   ├── exemplo_08_vetor_ponteiro_funcao_2.c
+│   │   │   ├── exemplo_08_vetor_ponteiro_funcao.c
+│   │   │   ├── teste
+│   │   │   └── teste.c
+│   │   ├── lista1
+│   │   │   ├── at1.c
+│   │   │   ├── at2.2
+│   │   │   ├── at2.2.c
+│   │   │   ├── at2.c
+│   │   │   ├── at3.c
+│   │   │   ├── at3_resposta.txt
+│   │   │   ├── at4
+│   │   │   ├── at4.c
+│   │   │   ├── at4_resposta.txt
+│   │   │   └── exemplos
+│   │   │       ├── array_corrected
+│   │   │       ├── array_corrected.c
+│   │   │       ├── sizeof_error
+│   │   │       └── sizeof_error.c
+│   │   ├── lista2
+│   │   │   ├── escrita.txt
+│   │   │   ├── exemplos
+│   │   │   │   ├── 1117a
+│   │   │   │   ├── 1117a.c
+│   │   │   │   ├── arquivo.txt
+│   │   │   │   ├── family
+│   │   │   │   ├── family.c
+│   │   │   │   ├── family.data
+│   │   │   │   ├── file_open
+│   │   │   │   ├── file_open.c
+│   │   │   │   ├── file.txt
+│   │   │   │   ├── fseek_exemplo
+│   │   │   │   ├── fseek_exemplo.c
+│   │   │   │   ├── fseek_test
+│   │   │   │   └── fseek_test.c
+│   │   │   ├── fseek_escrita
+│   │   │   ├── fseek_escrita.c
+│   │   │   ├── fseek_leitura
+│   │   │   ├── fseek_leitura.c
+│   │   │   ├── lista2.7z
+│   │   │   └── q2.txt
+│   │   └── makefile
+│   ├── spinning
+│   ├── Spinning
 │   ├── Spinning.c
 │   ├── teste
 │   ├── teste.c
 │   ├── teste-felps.c
 │   ├── teste-smlp.c
+│   ├── Threads
+│   │   ├── thread
+│   │   └── thread.c
 │   ├── triangles
 │   ├── triangles.c
 │   ├── triangulo
-│   └── triangulo.c
+│   ├── triangulo.c
+│   └── whoami
+│       ├── whoami
+│       └── whoami.c
 ├── C#
 │   └── Eng. de Software II
 │       └── Bridge.cs
 ├── C++
 │   ├── 1984
 │   ├── 1984.txt
-│   ├── aaaa
-│   │   ├── aaaa.cbp
-│   │   ├── aaaa.depend
-│   │   ├── aaaa.layout
-│   │   └── main.cpp
-│   ├── aaaaaaaaaa
-│   │   ├── aaaaaaaaaa.cbp
-│   │   ├── aaaaaaaaaa.layout
-│   │   └── main.cpp
-│   ├── aopfsj
-│   │   ├── aopfsj.cbp
-│   │   ├── aopfsj.layout
-│   │   └── main.cpp
 │   ├── Área de testes
 │   │   ├── aaaaaaa.cpp
-│   │   ├── aaaaaaa.exe
+│   │   ├── integral.cpp
+│   │   ├── integral_simples.cpp
 │   │   ├── jogo da velha.cpp
 │   │   ├── jogo_da_velha.cpp
-│   │   ├── jogo da velha.exe
 │   │   ├── lugares.cpp
-│   │   ├── lugares.exe
 │   │   ├── media.cpp
-│   │   ├── media.exe
 │   │   ├── nome.cpp
-│   │   ├── nome.exe
+│   │   ├── output
+│   │   │   └── integral_simples
 │   │   ├── piramide.cpp
-│   │   ├── piramide.exe
 │   │   ├── Sem Título1.cpp
-│   │   ├── Sem Título1.exe
-│   │   ├── struct.cpp
-│   │   └── struct.exe
+│   │   └── struct.cpp
 │   ├── Arq de Computadores
 │   │   ├── a.out
 │   │   ├── cache-v2.0
@@ -85,6 +373,7 @@
 │   │   ├── ArrayPtr.layout
 │   │   └── main.cpp
 │   ├── AT01-Eletronica.cpp
+│   ├── ateletronica
 │   ├── atividade_complementar
 │   │   ├── atividade_complementar.cbp
 │   │   ├── atividade_complementar.depend
@@ -165,6 +454,34 @@
 │   ├── calc.cien.class
 │   ├── calc.cien.class.cc
 │   ├── calc.cien.class.exe
+│   ├── CalCpp_tests
+│   │   ├── algebra
+│   │   │   ├── algebra.h
+│   │   │   ├── Potencia.h
+│   │   │   ├── RaizBaseX.h
+│   │   │   ├── RaizesEquacao.h
+│   │   │   └── RaizQuadrada.h
+│   │   ├── basic
+│   │   │   ├── Adicao.h
+│   │   │   ├── Divisao.h
+│   │   │   ├── Multiplicacao.h
+│   │   │   └── Subtracao.h
+│   │   ├── calc.cpp
+│   │   ├── calcpp
+│   │   ├── calculus
+│   │   │   ├── Derivada.h
+│   │   │   ├── Integrais.h
+│   │   │   ├── IntegralDupla.h
+│   │   │   ├── IntegralSimples.cpp
+│   │   │   └── integral_simpson_rule.png
+│   │   ├── LICENSE
+│   │   ├── README.md
+│   │   └── testes
+│   │       ├── char_to_str.cpp
+│   │       ├── integral
+│   │       ├── Integral.cpp
+│   │       ├── scicalc.cpp
+│   │       └── string.cpp
 │   ├── calc_switchcase
 │   │   ├── calc
 │   │   ├── calc-cpp
@@ -177,6 +494,7 @@
 │   │   ├── main.cpp
 │   │   └── main.exe
 │   ├── calculadora
+│   │   ├── calc
 │   │   ├── calculadora.cbp
 │   │   ├── calculadora.depend
 │   │   ├── calculadora.layout
@@ -191,6 +509,9 @@
 │   │   └── src
 │   │       ├── Calculadora.cpp
 │   │       └── teste.cpp
+│   ├── CalculatorExpression
+│   │   ├── calc
+│   │   └── calc.cpp
 │   ├── Caractere
 │   │   ├── Caractere.cbp
 │   │   ├── Caractere.depend
@@ -211,6 +532,19 @@
 │   ├── Download errors.txt
 │   ├── estoque_celular
 │   ├── estoque_celular.cpp
+│   ├── expression_parser_cpp
+│   │   ├── constants.h
+│   │   ├── error.cpp
+│   │   ├── error.h
+│   │   ├── functions.cpp
+│   │   ├── functions.h
+│   │   ├── main.cpp
+│   │   ├── parser.cpp
+│   │   ├── parser.dev
+│   │   ├── parser.exe
+│   │   ├── parser.h
+│   │   ├── variablelist.cpp
+│   │   └── variablelist.h
 │   ├── Grafos
 │   │   ├── grafo-euleriano-master
 │   │   │   ├── criaGrafo.py
@@ -232,6 +566,13 @@
 │   │   ├── grafos_lista-adjacência.cpp
 │   │   ├── grafos_matriz-incidência.cpp
 │   │   └── Grafos.zip
+│   ├── input_console
+│   │   ├── teste
+│   │   └── teste.cpp
+│   ├── integration
+│   │   ├── algoritmo.txt
+│   │   ├── dintegral
+│   │   └── double_integral.cpp
 │   ├── IPValidator
 │   │   ├── ip
 │   │   ├── ip_main.cpp
@@ -275,6 +616,7 @@
 │   │       ├── main.cpp
 │   │       ├── struct.cbp
 │   │       └── struct.layout
+│   ├── leitor
 │   ├── leitura
 │   ├── leitura.cc
 │   ├── LICENSE
@@ -311,6 +653,13 @@
 │   │   └── ola mundo.layout
 │   ├── peso
 │   ├── peso.cpp
+│   ├── polynomials_derivations
+│   │   ├── der
+│   │   ├── der.cpp
+│   │   ├── pol
+│   │   ├── pol.c
+│   │   ├── pol.cpp
+│   │   └── polcpp
 │   ├── Ponteiros
 │   │   ├── main.cpp
 │   │   ├── Ponteiros.cbp
@@ -339,6 +688,12 @@
 │   │   ├── prova-res.cbp
 │   │   ├── prova-res.depend
 │   │   └── prova-res.layout
+│   ├── quadrado
+│   │   ├── aaaa.cbp
+│   │   ├── aaaa.depend
+│   │   ├── aaaa.layout
+│   │   ├── main
+│   │   └── main.cpp
 │   ├── README.md
 │   ├── setlocale
 │   │   ├── main.cpp
@@ -352,7 +707,13 @@
 │   │   ├── ExpressaoRegular.cpp
 │   │   └── ExpressaoRegular.py
 │   ├── teste
+│   │   ├── bin
+│   │   │   └── Debug
+│   │   │       └── teste
 │   │   ├── main.cpp
+│   │   ├── obj
+│   │   │   └── Debug
+│   │   │       └── main.o
 │   │   ├── teste.cbp
 │   │   └── teste.layout
 │   ├── teste-1984.cpp
@@ -393,6 +754,7 @@
 │   │   └── testemedia.layout
 │   ├── teste-menu
 │   ├── teste-menu.cpp
+│   ├── teste-tab
 │   ├── teste.txt
 │   ├── teste vetor
 │   │   ├── main.cpp
@@ -417,11 +779,18 @@
 │       ├── vetor var.cbp
 │       ├── vetor var.depend
 │       └── vetor var.layout
+├── Go
+│   ├── go.mod
+│   └── hello.go
 ├── HTML
 │   ├── dados.txt
 │   ├── formulario.html
 │   └── style.css
 ├── Java
+│   ├── Área de testes
+│   │   ├── Calculadora.class
+│   │   ├── Calculadora.java
+│   │   └── teste.java
 │   ├── Eng. Software II
 │   │   ├── Lista-Júlio_EngII
 │   │   │   ├── A1
@@ -642,9 +1011,7 @@
 │   │           ├── ItemElement.class
 │   │           ├── ItemElement.java
 │   │           ├── Livro.class
-│   │           ├── Livro.java
-│   │           └── src
-│   │               └── source.java
+│   │           └── Livro.java
 │   ├── Javas aleatórios
 │   │   ├── javas2d
 │   │   │   ├── DesenhaOutrosObjetos.class
@@ -1073,10 +1440,109 @@
 │           ├── TimeStamp.class
 │           └── TimeStamp.java
 ├── Lua
+│   ├── 1mi.py
+│   ├── checktable.lua
 │   └── quicksortv3.lua
 ├── NS
 │   └── teste.tcl
+├── Octave
+│   └── Analisador de cores
+│       ├── aula_2022_08_24.m
+│       ├── sanic.png
+│       └── teste_octave.m
 ├── Python
+│   ├── 1bi.py
+│   ├── Computação Gráfica
+│   │   ├── Jogo
+│   │   │   ├── capivara.png
+│   │   │   ├── carro.png
+│   │   │   ├── dejavu-sans
+│   │   │   │   ├── DejaVu Fonts License.txt
+│   │   │   │   ├── DejaVuSans-BoldOblique.ttf
+│   │   │   │   ├── DejaVuSans-Bold.ttf
+│   │   │   │   ├── DejaVuSansCondensed-BoldOblique.ttf
+│   │   │   │   ├── DejaVuSansCondensed-Bold.ttf
+│   │   │   │   ├── DejaVuSansCondensed-Oblique.ttf
+│   │   │   │   ├── DejaVuSansCondensed.ttf
+│   │   │   │   ├── DejaVuSans-ExtraLight.ttf
+│   │   │   │   ├── DejaVuSans-Oblique.ttf
+│   │   │   │   └── DejaVuSans.ttf
+│   │   │   ├── teste_00.py
+│   │   │   ├── teste_01.py
+│   │   │   ├── teste_02.py
+│   │   │   ├── teste_03.py
+│   │   │   ├── teste_04.py
+│   │   │   └── testeGame1.1-esp.py
+│   │   ├── tutorial_01.zip
+│   │   ├── Tutorial1
+│   │   │   ├── capivara.png
+│   │   │   ├── carro.png
+│   │   │   ├── dejavu-sans
+│   │   │   │   ├── DejaVu Fonts License.txt
+│   │   │   │   ├── DejaVuSans-BoldOblique.ttf
+│   │   │   │   ├── DejaVuSans-Bold.ttf
+│   │   │   │   ├── DejaVuSansCondensed-BoldOblique.ttf
+│   │   │   │   ├── DejaVuSansCondensed-Bold.ttf
+│   │   │   │   ├── DejaVuSansCondensed-Oblique.ttf
+│   │   │   │   ├── DejaVuSansCondensed.ttf
+│   │   │   │   ├── DejaVuSans-ExtraLight.ttf
+│   │   │   │   ├── DejaVuSans-Oblique.ttf
+│   │   │   │   └── DejaVuSans.ttf
+│   │   │   ├── teste_00.py
+│   │   │   ├── teste_01.py
+│   │   │   ├── teste_02.py
+│   │   │   ├── teste_03.py
+│   │   │   ├── teste_04.py
+│   │   │   ├── testeGame1.1-esp.py
+│   │   │   └── tutorial_01.zip
+│   │   └── Tutorial2
+│   │       ├── ex_fundo_01.py
+│   │       ├── ex_personagem_01.py
+│   │       ├── img
+│   │       │   ├── cenario
+│   │       │   │   ├── CenarioFundo2.png
+│   │       │   │   └── CenarioTerreno.png
+│   │       │   ├── cenario-01
+│   │       │   │   ├── CenarioFundo0.png
+│   │       │   │   ├── CenarioFundo1.png
+│   │       │   │   ├── CenarioFundo2.png
+│   │       │   │   ├── CenarioFundo3.png
+│   │       │   │   └── CenarioTerreno.png
+│   │       │   └── personagens
+│   │       │       ├── caminhar-20221019T025444Z-001.zip
+│   │       │       └── principal
+│   │       │           ├── ator_1.png
+│   │       │           ├── ator_2.png
+│   │       │           ├── ator_3.png
+│   │       │           ├── ator_4.png
+│   │       │           ├── ator_5.png
+│   │       │           ├── ator_6.png
+│   │       │           ├── ator_7.png
+│   │       │           ├── mapeamento.txt
+│   │       │           └── textura.txt
+│   │       ├── personagem.py
+│   │       ├── __pycache__
+│   │       │   ├── personagem.cpython-310.pyc
+│   │       │   ├── personagem.cpython-38.pyc
+│   │       │   └── terreno.cpython-38.pyc
+│   │       └── tutorial_2_sprite_fundo.zip
+│   ├── cp.log
+│   ├── Escola de Programação
+│   │   └── teste.py
+│   ├── JogosGitHub
+│   │   └── jogo_area51
+│   │       ├── area51.py
+│   │       ├── freira_fim.jpg
+│   │       ├── freira_susto.jpg
+│   │       ├── ovni_fundo.png
+│   │       ├── ovni.png
+│   │       ├── piano.mp3
+│   │       ├── README.md
+│   │       ├── toque_fundo.mp3
+│   │       └── toque_grito.mp3
+│   ├── Jupyter
+│   │   ├── teste5.png
+│   │   └── teste_vetores.ipynb
 │   ├── Redes de Computadores
 │   │   └── Protocolos TCP e UDP
 │   │       ├── client_TCP.py
@@ -1090,6 +1556,160 @@
 │       │   └── server.py
 │       └── Algoritmo de Lamports
 │           └── lamport.py
+├── R
+│   └── Prob. e Estatistica
+│       └── Aula 1
+│           └── Aula1.R
+├── README.md
+├── Rust
+│   └── Exemplos Livro
+│       └── life
+│           ├── Cargo.lock
+│           ├── Cargo.toml
+│           ├── src
+│           │   └── main.rs
+│           └── target
+│               ├── CACHEDIR.TAG
+│               └── debug
+│                   ├── build
+│                   │   ├── libc-021aa332eb3221f7
+│                   │   │   ├── invoked.timestamp
+│                   │   │   ├── out
+│                   │   │   ├── output
+│                   │   │   ├── root-output
+│                   │   │   └── stderr
+│                   │   └── libc-c90484cde5438962
+│                   │       ├── build-script-build
+│                   │       ├── build_script_build-c90484cde5438962
+│                   │       └── build_script_build-c90484cde5438962.d
+│                   ├── deps
+│                   │   ├── cfg_if-419f92d015e31f97.d
+│                   │   ├── cfg_if-6802018d84fee944.d
+│                   │   ├── getrandom-079365b90ef1360e.d
+│                   │   ├── getrandom-945b441e7fcb0b26.d
+│                   │   ├── libc-172a4d2b8a2cf7ad.d
+│                   │   ├── libc-ee2c0502ebf6dea7.d
+│                   │   ├── libcfg_if-419f92d015e31f97.rmeta
+│                   │   ├── libcfg_if-6802018d84fee944.rlib
+│                   │   ├── libcfg_if-6802018d84fee944.rmeta
+│                   │   ├── libgetrandom-079365b90ef1360e.rmeta
+│                   │   ├── libgetrandom-945b441e7fcb0b26.rlib
+│                   │   ├── libgetrandom-945b441e7fcb0b26.rmeta
+│                   │   ├── liblibc-172a4d2b8a2cf7ad.rlib
+│                   │   ├── liblibc-172a4d2b8a2cf7ad.rmeta
+│                   │   ├── liblibc-ee2c0502ebf6dea7.rmeta
+│                   │   ├── liblife-2e31bae65d6d4d58.rmeta
+│                   │   ├── liblife-5f480692b357eab9.rmeta
+│                   │   ├── liblife-b89c52833db264c7.rmeta
+│                   │   ├── liblife-bcea39b5557b20f6.rmeta
+│                   │   ├── libppv_lite86-9164cdd5fbf25ee5.rmeta
+│                   │   ├── libppv_lite86-984fbb272ab2d5c4.rlib
+│                   │   ├── libppv_lite86-984fbb272ab2d5c4.rmeta
+│                   │   ├── librand-bc06315977f93042.rlib
+│                   │   ├── librand-bc06315977f93042.rmeta
+│                   │   ├── librand_chacha-c099f5d55125ed93.rmeta
+│                   │   ├── librand_chacha-e1a7b3ed0152553f.rlib
+│                   │   ├── librand_chacha-e1a7b3ed0152553f.rmeta
+│                   │   ├── librand_core-5a6c3a25d1afc736.rlib
+│                   │   ├── librand_core-5a6c3a25d1afc736.rmeta
+│                   │   ├── librand_core-60f6819a1f0e6288.rmeta
+│                   │   ├── librand-da86e3f049cdfe0f.rmeta
+│                   │   ├── life-2e31bae65d6d4d58.d
+│                   │   ├── life-5f480692b357eab9.d
+│                   │   ├── life-70152aba2e5effa7
+│                   │   ├── life-70152aba2e5effa7.d
+│                   │   ├── life-b89c52833db264c7.d
+│                   │   ├── life-baa3cf18233a2e27.d
+│                   │   ├── life-bcea39b5557b20f6.d
+│                   │   ├── ppv_lite86-9164cdd5fbf25ee5.d
+│                   │   ├── ppv_lite86-984fbb272ab2d5c4.d
+│                   │   ├── rand-bc06315977f93042.d
+│                   │   ├── rand_chacha-c099f5d55125ed93.d
+│                   │   ├── rand_chacha-e1a7b3ed0152553f.d
+│                   │   ├── rand_core-5a6c3a25d1afc736.d
+│                   │   ├── rand_core-60f6819a1f0e6288.d
+│                   │   └── rand-da86e3f049cdfe0f.d
+│                   ├── examples
+│                   ├── incremental
+│                   │   ├── life-1d6wxq2vx8zoi
+│                   │   │   ├── s-gulr49laix-zpb2q1-deu4y6mgpftrleh9ptzm45zgk
+│                   │   │   │   ├── 1060k9pwen2usbhu.o
+│                   │   │   │   ├── 1y5mjkfz8ejlog8a.o
+│                   │   │   │   ├── 3extrr3hhtruqqry.o
+│                   │   │   │   ├── 4unqssznozcrw94n.o
+│                   │   │   │   ├── 56i6sivkucwvw2j8.o
+│                   │   │   │   ├── dep-graph.bin
+│                   │   │   │   ├── df3sibmp6k5wtdd.o
+│                   │   │   │   ├── query-cache.bin
+│                   │   │   │   └── work-products.bin
+│                   │   │   ├── s-gulr49laix-zpb2q1.lock
+│                   │   │   ├── s-guls7l60y9-rec2h5.lock
+│                   │   │   └── s-guls7l60y9-rec2h5-working
+│                   │   │       ├── 1060k9pwen2usbhu.o
+│                   │   │       ├── 1y5mjkfz8ejlog8a.o
+│                   │   │       ├── 3extrr3hhtruqqry.o
+│                   │   │       ├── 4unqssznozcrw94n.o
+│                   │   │       ├── 56i6sivkucwvw2j8.o
+│                   │   │       ├── dep-graph.bin
+│                   │   │       ├── dep-graph.part.bin
+│                   │   │       ├── df3sibmp6k5wtdd.o
+│                   │   │       ├── query-cache.bin
+│                   │   │       └── work-products.bin
+│                   │   ├── life-1wdboykkbbufb
+│                   │   │   ├── s-gulsydvawm-mo7px6-atq2qdaq718cl77ucp03hyw0o
+│                   │   │   │   ├── dep-graph.bin
+│                   │   │   │   ├── query-cache.bin
+│                   │   │   │   └── work-products.bin
+│                   │   │   └── s-gulsydvawm-mo7px6.lock
+│                   │   ├── life-33qeu9jdrm04s
+│                   │   │   ├── s-gulsydwyls-41sxi7-223he5vu8rbiaxgf64hy3fhpw
+│                   │   │   │   ├── dep-graph.bin
+│                   │   │   │   ├── query-cache.bin
+│                   │   │   │   └── work-products.bin
+│                   │   │   └── s-gulsydwyls-41sxi7.lock
+│                   │   ├── life-3aq0wk9puzqj5
+│                   │   │   ├── s-gulr5h3s3f-17l0gtx.lock
+│                   │   │   ├── s-gulr5h3s3f-17l0gtx-pyhfrssg2k670126ivbzx64y
+│                   │   │   │   ├── dep-graph.bin
+│                   │   │   │   ├── query-cache.bin
+│                   │   │   │   └── work-products.bin
+│                   │   │   ├── s-gulsgzbp01-hdsrpt.lock
+│                   │   │   └── s-gulsgzbp01-hdsrpt-working
+│                   │   │       ├── dep-graph.bin
+│                   │   │       ├── dep-graph.part.bin
+│                   │   │       ├── query-cache.bin
+│                   │   │       └── work-products.bin
+│                   │   ├── life-3lcd0m5o8aye7
+│                   │   │   ├── s-gulsl4nyp3-f0l0mx-euhhb9km1r7aca71z835xa6ca
+│                   │   │   │   ├── 1dtvq6l5zyh331zq.o
+│                   │   │   │   ├── 1q6jsyjvz396swvf.o
+│                   │   │   │   ├── 1xlyd0bkupjx430g.o
+│                   │   │   │   ├── 26s3pub35zcf1xul.o
+│                   │   │   │   ├── 2h7ij3siolyvrvbl.o
+│                   │   │   │   ├── 33pzpk3fppstmd79.o
+│                   │   │   │   ├── 3am43g00hm4i837a.o
+│                   │   │   │   ├── 3ozlntfbk157k7p1.o
+│                   │   │   │   ├── 52xswu9xwlshmjiu.o
+│                   │   │   │   ├── 5bzjtrg4us9wgpw0.o
+│                   │   │   │   ├── 5pn6p0oq8dyo1im.o
+│                   │   │   │   ├── dep-graph.bin
+│                   │   │   │   ├── query-cache.bin
+│                   │   │   │   └── work-products.bin
+│                   │   │   └── s-gulsl4nyp3-f0l0mx.lock
+│                   │   └── life-8qcqz4yuett2
+│                   │       ├── s-gulr5h3ivj-cwiemf-998frbh8qy1alde6zb2scstib
+│                   │       │   ├── dep-graph.bin
+│                   │       │   ├── query-cache.bin
+│                   │       │   └── work-products.bin
+│                   │       ├── s-gulr5h3ivj-cwiemf.lock
+│                   │       ├── s-gulsgza67h-18n6zol.lock
+│                   │       └── s-gulsgza67h-18n6zol-working
+│                   │           ├── dep-graph.bin
+│                   │           ├── dep-graph.part.bin
+│                   │           ├── query-cache.bin
+│                   │           └── work-products.bin
+│                   ├── life
+│                   └── life.d
 └── tree.txt
 
-148 directories, 944 files
+266 directories, 1447 files
