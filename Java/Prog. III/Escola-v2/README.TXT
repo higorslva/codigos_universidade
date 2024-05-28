@@ -12,8 +12,7 @@ CHANGES:
         - Removido a caixa de dialogo mostrando a media de idades de alunos e de professores;
         - Agora temos caixa de escolha em "Genero", "Atributo", "Especialidade do professor" e "cargo do
     funcionario. Essa opçao entra no lugar de digitar manualmente e remove a necessidade de digitar sem 
-    algum erro ortigrafico;
-        - Adicionado opçao "Nao-binarie" e "Outros" na opçao de cadastrar generos;
+    algum erro ortografico;
 ------------------------------------------------------------------------------------------------------------
 CADASTRO v1.1 Stable
 ------------------------------------------------------------------------------------------------------------
